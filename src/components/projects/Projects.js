@@ -32,12 +32,12 @@ const Projects = () => {
           webLink="https://sanu-ecommerce.vercel.app/"
         />
         <ProjectsCard
-          title="Responsive Web3.0 Blockchain App"
+          title="Web3.0 Blockchain App"
           techStacks="HTML, CSS, Solidity, JavaScript, Node.js, React.js, Ethers.js"
           des=" This is a modern web 3.0 application which can transfer Ethereum on a blockchain
           network, pairing it with Metamask.
           The smart contracts are scripted in Solidity language and deployed in Alchemy platform by paying
-          the gas fees using Rinkeby faucet."
+          the gas fees using Rinkeby faucet. This is not designed for mobile devices."
           src={projectTwo}
           webLink="https://sanuchakraborty.github.io/smartETH/"
           githubLink="https://github.com/sanuchakraborty/smartETH"
