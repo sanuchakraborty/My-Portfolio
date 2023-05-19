@@ -12,7 +12,7 @@ const ResumeCard = ({ title, src }) => {
       </div>
       <div className="w-full mt-5 flex flex-col  gap-6">
         <div>
-          <h3 className="text-base uppercase text-designColor font-normal flex  items-center justify-center">
+          <h3 className="text-base text-designColor font-normal flex  items-center justify-center">
             {title}
           </h3>
         </div>

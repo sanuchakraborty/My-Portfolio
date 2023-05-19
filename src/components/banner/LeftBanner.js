@@ -5,7 +5,7 @@ import Media from "./Media";
 const LeftBanner = () => {
   const [text] = useTypewriter({
     words: [
-      "a Professional Coder.",
+      "a Coder by Interest.",
       "a Full Stack Developer.",
       "an IIT Guwahati post-grad.",
     ],
@@ -22,7 +22,7 @@ const LeftBanner = () => {
           Hi, I'm{" "}
           <span className="text-designColor capitalize">Sanu Chakrabortty</span>
         </h1>
-        <h2 className="text-4xl font-bold text-white">
+        <h2 className="text-2xl md:text-4xl font-bold text-white">
           <span>{text}</span>
           <Cursor
             cursorBlinking="false"

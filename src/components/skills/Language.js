@@ -16,7 +16,7 @@ const Language = () => {
       <ResumeCard title={"C++"} src={cplusplus} />
       <ResumeCard title={"HTML5"} src={html} />
       <ResumeCard title={"CSS3"} src={css} />
-      <ResumeCard title={"JavaScrit"} src={javascript} />
+      <ResumeCard title={"JavaScript"} src={javascript} />
       <ResumeCard title={"MySQL"} src={mysql} />
     </div>
   );

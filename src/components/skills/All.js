@@ -25,7 +25,7 @@ const All = () => {
       <ResumeCard title={"C++"} src={cplusplus} />
       <ResumeCard title={"HTML5"} src={html} />
       <ResumeCard title={"CSS3"} src={css} />
-      <ResumeCard title={"JavaScrit"} src={javascript} />
+      <ResumeCard title={"JavaScript"} src={javascript} />
       <ResumeCard title={"React"} src={react} />
       <ResumeCard title={"Redux"} src={redux} />
       <ResumeCard title={"Node js"} src={node} />

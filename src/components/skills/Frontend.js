@@ -13,7 +13,7 @@ const Frontend = () => {
     <div className="grid grid-cols-3 md:grid-cols-4 xl:grid-cols-5 gap-10 xl:gap-14">
       <ResumeCard title={"HTML5"} src={html} />
       <ResumeCard title={"CSS3"} src={css} />
-      <ResumeCard title={"JavaScrit"} src={javascript} />
+      <ResumeCard title={"JavaScript"} src={javascript} />
       <ResumeCard title={"React"} src={react} />
       <ResumeCard title={"Redux"} src={redux} />
     </div>
